@@ -4,5 +4,4 @@ Este projeto utiliza um modelo de Machine Learning, especificamente um `RandomFo
 
 **Link da Competição:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-
-Este é o primeiro projeto submetido ao Kaggle, focando em um fluxo completo de trabalho de machine learning, desde a análise de dados até a geração do resultado final, os proximos passos são aumento da acurácia. Documentarei todas alterações aqui.
+**Score: 0.77751**
